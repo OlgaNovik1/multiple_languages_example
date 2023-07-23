@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+
+.description {
+    color: blue;
+    font-size: 26px;
+    text-align: center;
+    margin: 30px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.registration {
+    display: flex;
+    justify-content: center;
+}
+
+.register {
+    height: 40px;
+    width: 300px;
+    background-color: rgb(70, 188, 188);
+    font-weight: bold;
+    color: azure;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.language {
+    background-color: red;
+    margin: 2px;
+    height: 25px;
+    width: 45px;
+    border: 0;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
